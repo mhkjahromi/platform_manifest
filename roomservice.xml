@@ -10,7 +10,7 @@
 <!-- Devicesettings -->
   <project name="mhkjahromi/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="cm-14.1" remote="github" />
 <!-- samsung-HARDWARE -->
-  <project name="mhkjahromi/android_hardware_samsung" path="" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1" remote="github" />
 <!-- sony_boringssl-compat -->
   <project name="mhkjahromi/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="cm-14.1" remote="github" />
 <!-- android-external-stlport -->
