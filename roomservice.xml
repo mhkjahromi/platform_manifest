@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <!-- Device Tree -->
-  <project name="mhkjahromi/android_device_samsung_s3ve3g" path="device/samsung/s3ve3g" remote="github" revision="lineage-14.1" />
+  <project name="mhkjahromi/android_device_samsung_s3ve3g" path="device/samsung/s3ve3g" remote="github" revision="lineage-15.1" />
 <!-- msm8226-common's config -->
-  <project name="mhkjahromi/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="lineage-14.1" />
+  <project name="mhkjahromi/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="lineage-15.1" />
   <project name="mhkjahromi/android_vendor_samsung_s3ve3g_sony" path="vendor/samsung/s3ve3g" remote="github" revision="lineage-14.1"/>
 <!-- Kernel -->
-  <project name="mhkjahromi/android_kernel_samsung_s3ve3g" path="kernel/samsung/s3ve3g" revision="lineage-14.1" remote="github" />
+  <project name="mhkjahromi/android_kernel_samsung_s3ve3g" path="kernel/samsung/s3ve3g" revision="lineage-15.1" remote="github" />
 <!-- Devicesettings -->
-  <project name="mhkjahromi/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_packages_resources_devicesettings" path="packages/resources/devicesettings" revision="lineage-15.1" remote="github" />
 <!-- samsung-HARDWARE -->
-  <project name="mhkjahromi/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_hardware_samsung" path="hardware/samsung" revision="lineage-15.1" remote="github" />
 <!-- sony_boringssl-compat -->
-  <project name="mhkjahromi/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" revision="lineage-15.1" remote="github" />
 <!-- android-external-stlport -->
-  <project name="mhkjahromi/android_external_stlport" path="external/stlport" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_external_stlport" path="external/stlport" revision="lineage-15.1" remote="github" />
 <!-- samsung-Qcom_common -->
-  <project name="mhkjahromi/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="lineage-15.1" remote="github" />
 <!-- Device-Qcom-common -->
-  <project name="mhkjahromi/android_device_qcom_common" path="device/qcom/common" revision="cm-14.1" remote="github" />
+  <project name="mhkjahromi/android_device_qcom_common" path="device/qcom/common" revision="lineage-15.1" remote="github" />
 </manifest>
